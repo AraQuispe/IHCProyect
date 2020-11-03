@@ -1,3 +1,4 @@
+//Autor: Araceli Quispe
 package ihc;
 
 import java.io.IOException;
